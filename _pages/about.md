@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello all, this is Vidya Sagar Gurung and has been really impressed with fastai and fastpages.
 
-I really started using due to the COVID-19 pandemic and thought of using fastpages as the quickest means to spread information to my community globally.
+I did dabble with blogging using other platforms however fastpages has really pushed me to blog regularly. The current global pandemic situation gives me opportunity to Nepali speaking community globally.
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
