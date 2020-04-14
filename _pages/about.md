@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hello all, this is Vidya Sagar Gurung and has been really impressed with fastai and fastpages.
+
+I really started using due to the COVID-19 pandemic and thought of using fastpages as the quickest means to spread information to my community globally.
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
